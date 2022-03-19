@@ -1,0 +1,8 @@
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RetoGenericsInterfacesList\Generic-Interfaces-List\Generic-Interfaces-List\bin\Debug\Generic-Interfaces-List.exe.config
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RetoGenericsInterfacesList\Generic-Interfaces-List\Generic-Interfaces-List\bin\Debug\Generic-Interfaces-List.exe
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RetoGenericsInterfacesList\Generic-Interfaces-List\Generic-Interfaces-List\bin\Debug\Generic-Interfaces-List.pdb
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RetoGenericsInterfacesList\Generic-Interfaces-List\Generic-Interfaces-List\obj\Debug\Generic-Interfaces-List.csproj.AssemblyReference.cache
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RetoGenericsInterfacesList\Generic-Interfaces-List\Generic-Interfaces-List\obj\Debug\Generic-Interfaces-List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RetoGenericsInterfacesList\Generic-Interfaces-List\Generic-Interfaces-List\obj\Debug\Generic-Interfaces-List.csproj.CoreCompileInputs.cache
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RetoGenericsInterfacesList\Generic-Interfaces-List\Generic-Interfaces-List\obj\Debug\Generic-Interfaces-List.exe
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RetoGenericsInterfacesList\Generic-Interfaces-List\Generic-Interfaces-List\obj\Debug\Generic-Interfaces-List.pdb
